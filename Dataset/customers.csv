@@ -1,0 +1,61 @@
+customer_id,customer_name,customer_type,country,signup_date,credit_days
+C001,Pioneer Trading Co,Distributor,Germany,2023-06-12,30
+C002,Northgate Hardware,Distributor,Germany,2024-05-21,60
+C003,Harbor Trading Co,Distributor,Singapore,2024-05-03,30
+C004,Pioneer Hardware,Distributor,Australia,2023-05-05,30
+C005,Oakline Distribution,Distributor,Singapore,2024-02-25,30
+C006,Orbit Supplies,Distributor,Canada,2024-07-20,45
+C007,Titan Trading Co,Distributor,UAE,2022-05-14,30
+C008,Lakeside Supplies, Distributor ,,2023-11-17,60
+C009,Meridian Projects,Distributor,Canada,2022-10-11,45
+C010,Oakline Traders,Distributor,UAE,2023-10-03,30
+C011,Quarry Hardware,Distributor,Canada,2023-05-17,60
+C012,Falcon Trading Co,Distributor,Australia,2024-09-15,30
+C013,Summit Contracting,DISTRIBUTOR,UK,2023-10-08,30
+C014,Crescent Projects,Distributor,,2023-05-22,45
+C015,Keystone Industries,Industrial,Singapore,2023-02-04,45
+C016,Horizon Traders,Industrial,Germany,2022-01-13,45
+C017,Redstone Projects,Industrial,UK,2024-03-14,45
+C018,Horizon Projects,Industrial,UAE,2022-01-21,30
+C019,Granite Hardware,Industrial,USA,2024-04-28,30
+C020,Falcon Coatings,Industrial,Canada,2024-05-14,45
+C021,Redstone Traders,Industrial,USA,2022-12-11,30
+C022,Northgate Supplies,Industrial,USA,2022-11-28,45
+C023,Granite Contracting,Contractor,Singapore,2023-05-07,15
+C024,Bluepeak Coatings,Contractor,UK,2024-06-25,30
+C025,Meridian Builders,Contractor,UAE,2023-03-12,30
+C026,Ridge Coatings,Contractor,Canada,2022-11-27,15
+C027,Ironwood Supplies, Contractor ,Canada,2023-05-10,30
+C028,Lakeside Hardware,Contractor,USA,2023-01-03,30
+C029,Atlas Distribution,Contractor,UK,2023-03-24,15
+C030,Ridge Distribution,Contractor,USA,2022-06-19,30
+C031,Prime Trading Co,Contractor,Singapore,2022-06-07,15
+C032,Orbit Distribution,Contractor,Australia,2023-03-26,15
+C033,Granite Builders,Contractor,South Africa,2023-03-26,30
+C034,Oakline Builders,Contractor,Singapore,2024-06-10,15
+C035,Atlas Coatings,Contractor,UK,2022-05-12,30
+C036,Silverline Distribution,Contractor,Singapore,2023-01-04,30
+C037,Orbit Projects,Contractor,USA,2022-07-19,15
+C038,Lakeside Projects,Contractor,Canada,2023-06-14,30
+C039,Lakeside Coatings,Contractor,Singapore,2024-06-13,15
+C040,Quarry Industries,Contractor,Canada,2023-10-19,15
+C041,Redstone Industries,Contractor,UK,2023-08-15,30
+C042,Prime Projects,Contractor,UAE,2023-02-27,15
+C043,Summit Traders,Retail Dealer,Singapore,2023-08-20,0
+C044,Pioneer Traders,Retail Dealer,,2022-07-08,0
+C045,Horizon Distribution,Retail Dealer,South Africa,2024-11-17,15
+C046,Horizon Coatings,Retail Dealer,South Africa,2023-11-09,15
+C047,Crescent Coatings,Retail Dealer,Germany,2023-05-11,0
+C048,Falcon Distribution,Retail Dealer,USA,2023-02-14,15
+C049,Falcon Contracting,Retail Dealer,Singapore,2022-10-13,15
+C050,Granite Projects,Retail Dealer,Singapore,2023-08-08,0
+C051,Atlas Industries,RETAIL DEALER,UK,2023-08-05,0
+C052,Pioneer Industries,Retail Dealer,Germany,2023-08-06,15
+C053,Horizon Trading Co,Retail Dealer,USA,2023-07-09,15
+C054,Sterling Projects,Retail Dealer,Germany,2022-06-08,0
+C055,Keystone Supplies,Retail Dealer,UAE,2023-08-23,0
+C056,Prime Supplies,Retail Dealer,,2022-05-19,0
+C057,Nova Builders,retail dealer,Singapore,2022-12-25,15
+C058,Quarry Trading Co,Retail Dealer,UK,2022-09-21,15
+C059,Granite Trading Co,Retail Dealer,South Africa,2024-12-05,15
+C060,Silverline Trading Co,Retail Dealer,Australia,2023-02-09,15

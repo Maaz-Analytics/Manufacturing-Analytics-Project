@@ -1,0 +1,13 @@
+product_id,product_name,category,pack_size,list_price_2024_usd,status
+P01,Interior Emulsion Paint,Paints,20L drum,38.0,Active
+P02,Exterior Weatherproof Paint,Paints,20L drum,46.0,Active
+P03,Wall Primer,Paints,20L drum,24.0,Active
+P04,Wood Varnish,Wood Care,10L can,24.0,Active
+P05,Enamel Paint,Paints,4L can,11.5,Active
+P06,Epoxy Floor Coating,Industrial,20L drum,78.0,Active
+P07,Waterproofing Compound,Construction,20L drum,36.0,Active
+P08,Industrial Thinner,Solvents,20L drum,21.5,Active
+P09,Wall Putty,Construction,25kg bucket,21.0,Active
+P10,Anti-Corrosion Paint,Industrial,20L drum,47.0,Active
+P11,Metallic Specialty Paint,Paints,4L can,24.0,Discontinued
+P12,Texture Coating,Construction,25kg bucket,31.0,Active

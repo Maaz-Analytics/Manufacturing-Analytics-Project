@@ -1,0 +1,16 @@
+material_id,material_name,unit,category,standard_cost_usd
+M01,Titanium Dioxide,kg,Pigment,2.8
+M02,Acrylic Resin,kg,Resin,2.2
+M03,Calcium Carbonate,kg,Filler,0.25
+M04,Mineral Spirits,kg,Solvent,1.1
+M05,Epoxy Resin,kg,Resin,3.6
+M06,Alkyd Resin,kg,Resin,2.0
+M07,Red Oxide Pigment,kg,Pigment,1.6
+M08,Aluminium Pigment,kg,Pigment,9.0
+M09,Dispersant Additive,kg,Additive,4.5
+M10,Polyurethane Resin,kg,Resin,4.2
+M11,Zinc Phosphate,kg,Anti-corrosion,3.1
+M12,20L Drum / 25kg Bucket,unit,Packaging,2.1
+M13,4L / 10L Can,unit,Packaging,0.9
+M14,Polymer Binder,kg,Binder,0.9
+M15,Mica Pigment,kg,Pigment,14.0

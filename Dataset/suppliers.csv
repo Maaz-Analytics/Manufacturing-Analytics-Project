@@ -1,0 +1,9 @@
+supplier_id,supplier_name,country,lead_time_days
+S01,Gulf Chemicals Trading,UAE,14
+S02,Rhine Pigments GmbH,Germany,21
+S03,Pacific Resins Pte,Singapore,18
+S04,Midwest Minerals Inc,USA,7
+S05,Eastern Packaging Co,India,10
+S06,Atlas Solvents Ltd,UK,12
+S07,Cape Additives,South Africa,25
+S08,Northern Coatings Supply,Canada,9
