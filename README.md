@@ -43,7 +43,7 @@ Finding: Industrial Thinner is the third-largest product by revenue ($1.59M) but
 
 Recommendation: Review pricing and costs on these three products, which bring in about $3.7M in revenue, starting with Industrial Thinner.
 
-![Production and Inventory](Dashboard%20Images/production-inventory.png)
+![Executive Overview](Dashboard%20Images/executive-overview.png)
 
 ### 2. Production and Inventory
 Production volume and monthly trend, expected versus physical stock by material, and a stock gap % chart. A dynamic headline states the total gap and the worst material.
@@ -56,7 +56,7 @@ Finding: Five of the 15 materials have less physical stock than expected, led by
 
 Recommendation: Recount and review usage records for M04, M09 and M03 first, to find whether the gaps come from waste, counting errors, or unrecorded usage.
 
-![Executive Overview](Dashboard%20Images/executive-overview.png)
+![Production and Inventory](Dashboard%20Images/production-inventory.png)
 
 ### 3. Product and Cost Analysis
 Total production cost, cost per unit, material share of cost, and scrap %. A monthly cost-per-unit trend, a cost breakdown (material, labor, overhead) and cost per unit by product show what drives cost.
