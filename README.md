@@ -35,15 +35,33 @@ An end-to-end analytics project for a fictional paints and coatings manufacturer
 ### 1. Executive Overview: Sales and Profitability
 Revenue, estimated profit, margin and units sold. Products are ranked by revenue and colored by margin, and a headline updates automatically to name the loss-making product.
 
+Sales and Profitability
+
+Problem: A paints manufacturer wanted to know which products make money and which don't, so it could fix pricing and costs where margins are weak.
+Finding: Industrial Thinner is the third-largest product by revenue ($1.59M) but has a negative estimated margin (-0.92%). Wall Primer (14.74%) and Wall Putty (10.13%) are also well below the 23.63% average.
+Recommendation: Review pricing and costs on these three products, which bring in about $3.7M in revenue, starting with Industrial Thinner.
+
 ![Executive Overview](Dashboard%20Images/executive-overview.png)
 
 ### 2. Production and Inventory
 Production volume and monthly trend, expected versus physical stock by material, and a stock gap % chart. A dynamic headline states the total gap and the worst material.
 
+Production and Inventory
+
+Problem: The business wanted to know whether the raw materials on the shelf match what its purchase and usage records say should be there.
+Finding: Five of the 15 materials have less physical stock than expected, led by M04 (-2.1%), M09 (-1.5%) and M03 (-1.2%). The other ten match.
+Recommendation: Recount and review usage records for M04, M09 and M03 first, to find whether the gaps come from waste, counting errors, or unrecorded usage.
+
 ![Production and Inventory](Dashboard%20Images/production-inventory.png)
 
 ### 3. Product and Cost Analysis
 Total production cost, cost per unit, material share of cost, and scrap %. A monthly cost-per-unit trend, a cost breakdown (material, labor, overhead) and cost per unit by product show what drives cost.
+
+Product and Cost Analysis
+
+Problem: The business wanted to know what drives the cost of making its products, and whether that cost is rising.
+Finding: Material is 89% of the $8.69M production cost, and cost per unit stayed steady between $21.07 and $22.03 for the whole period.
+Recommendation: Because unit cost is stable, savings will come from material purchase prices, so review supplier pricing, starting with the most expensive products: Epoxy Floor Coating ($45.74 per unit), Anti-Corrosion Paint ($30.70) and Exterior Weatherproof Paint ($30.31).
 
 ![Product and Cost Analysis](Dashboard%20Images/product-cost-analysis.png)
 
